@@ -15,6 +15,9 @@ D:\NetCoreRepos\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\Programmer
 D:\NetCoreRepos\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.dll
 D:\NetCoreRepos\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.pdb
 D:\NetCoreRepos\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.genruntimeconfig.cache
+D:\NetCoreRepos\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ref\ProgrammersBlog.Data.dll
+D:\NetCoreRepos\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCoreRepos\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ref\ProgrammersBlog.Data.dll
 D:\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Data.deps.json
 D:\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Data.runtimeconfig.json
 D:\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Data.runtimeconfig.dev.json
