@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NetCoreRepos\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj": {}
+    "D:\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj": {}
   },
   "projects": {
-    "D:\\NetCoreRepos\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj": {
+    "D:\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetCoreRepos\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj",
+        "projectUniqueName": "D:\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj",
         "projectName": "ProgrammersBlog.Shared",
-        "projectPath": "D:\\NetCoreRepos\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj",
-        "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "D:\\NetCoreRepos\\ProgrammersBlog\\ProgrammersBlog.Shared\\obj\\",
+        "projectPath": "D:\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj",
+        "packagesPath": "C:\\Users\\Dell-PC\\.nuget\\packages\\",
+        "outputPath": "D:\\ProgrammersBlog\\ProgrammersBlog.Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Dell-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -31,6 +26,7 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -42,6 +38,7 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc": {
               "target": "Package",
@@ -67,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
